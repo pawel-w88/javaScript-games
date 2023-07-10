@@ -1,0 +1,22 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+h3 {
+    text-align: center;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+}
+
+#grid {
+  width: 800px;
+  height: 800px;
+}
